@@ -1,6 +1,10 @@
 Changelog
 =========
 
+Release *v1.3.4* - ``2024-02-14`
+---------------------------------
+* official support for Django 5.0
+
 Release *v1.3.3* - ``2019-04-16``
 ---------------------------------
 * official support for Django 2.2
