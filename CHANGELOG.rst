@@ -1,6 +1,11 @@
 Changelog
 =========
 
+Release *v1.3.5* - ``2025-06-03`
+---------------------------------
+* only support python >= 3.8
+* remove pkg_resources
+
 Release *v1.3.4* - ``2024-02-14`
 ---------------------------------
 * official support for Django 5.0
